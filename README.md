@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @developerjunior5
 - 👀 I’m interested in Football and Forex
 - 🌱 I’m fluent in Javascript and React js
-- 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on web and mobile develoment
+- 📫 How to reach me godfreynyatoti7@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+
 
 <!---
 developerjunior5/developerjunior5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
